@@ -2,7 +2,7 @@ name = input("Enter Student Name: ")
 
 m1 = int(input("Enter Mark 1: "))
 m2 = int(input("Enter Mark 2: "))
-m3 = int(input("Enter Mark 3: "))
+m3 = int(input("Enter Mark 4: "))
 
 total = m1 + m2 + m3
 average = total / 3
