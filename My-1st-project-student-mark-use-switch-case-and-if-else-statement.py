@@ -2,14 +2,13 @@ name = input("Enter Student Name: ")
 
 m1 = int(input("Enter Mark 1: "))
 m2 = int(input("Enter Mark 2: "))
-m3 = int(input("Enter Mark 4: "))
+m3 = int(input("Enter Mark 3: "))
 
 total = m1 + m2 + m3
 average = total / 3
 
-print("\n----- STUDENT " \
-"MARK LIST -----")
-print("Student Name :",me)
+print("\n----- STUDENT MARK LIST -----")
+print("Student Name :", name)
 print("Total Marks  :", total)
 print("Average      :", average)
 
