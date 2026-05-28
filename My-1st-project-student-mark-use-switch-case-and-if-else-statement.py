@@ -7,8 +7,9 @@ m3 = int(input("Enter Mark 4: "))
 total = m1 + m2 + m3
 average = total / 3
 
-print("\n----- STUDENT MARK LIST -----")
-print("Student Name :", name)
+print("\n----- STUDENT " \
+"MARK LIST -----")
+print("Student Name :",me)
 print("Total Marks  :", total)
 print("Average      :", average)
 
